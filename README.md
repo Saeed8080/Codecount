@@ -1,0 +1,2 @@
+# Codecount
+Count number 
